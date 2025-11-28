@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol Acharya</h1>
 <h3 align="center">Focused on ☁️ Cloud & DevOps | 💻 Software Engineering | 🤖 AI/ML</h3>
+<h3 align="center">AWS Solutions Architect Associate Certified </h3>
 <h3 align="center">My LinkedIn Profile: https://www.linkedin.com/in/anmolacharyauta </h3>
 <h3 align="center">Connect with me: anmolacharya94@gmail.com</h3>
 
@@ -34,16 +35,6 @@
 - 🤝 Merging ML models into production using FastAPI and AWS
 - 💡 Interested in generative AI, NLP, and advanced computer vision
 
----
-
-## 💬 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" /></a>
-</p>
-
----
 
 ## 🛠️ Languages & Tools
 
