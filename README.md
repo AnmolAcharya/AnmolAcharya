@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Acharya</h1>
 <h3 align="center">Focused on ☁️ Cloud & DevOps | 💻 Software Engineering | 🤖 AI/ML</h3>
+<h3 align="center">My LinkedIn Profile: https://www.linkedin.com/in/anmolacharyauta </h3>
+<h3 align="center">Connect with me: anmolacharya94@gmail.com</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
